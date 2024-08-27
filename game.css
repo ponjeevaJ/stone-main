@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+body{
+    justify-content: center;
+    text-align: center;
+
+}
+.holl{
+   
+    position: relative;
+    border: solid black;
+    width: 70%;
+    height: 90vh;
+    background-color: aqua;
+}
+.us{
+    margin-right: 880px;
+
+}
+.sy{
+    margin-left: 700px;
+
+}
+.but1{
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    
+}
+.but2{
+position: absolute;
+top: 400px;
+left: 540px;
+}
+.but3{
+position: absolute;
+top: 400px;
+left: 590px;
+}
+.use{
+    position: absolute;
+    top: 100px;
+    left: 70px;
+}
+.sys{
+    position: absolute;
+    top: 110px;
+    left: 850px;
+}
+.t{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h{
+    position: absolute;
+    bottom: 20%;
+    /* left: 50%; */
+    font-size: 50px;
+}
+.play1{
+    margin-left: 100px;
+}
+.play2{
+    margin-left: 70%;
+}
